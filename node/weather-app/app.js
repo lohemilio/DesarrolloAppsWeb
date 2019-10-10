@@ -30,7 +30,7 @@ const getWeatherConditions = function(place){
     })
 }
 
-getWeatherConditions('New York')
+getWeatherConditions('Mexico city')
 
 
 
